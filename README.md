@@ -1,14 +1,14 @@
 ![PickQueue Logo](assets/PickQueue_logo.png?raw=true)
-# :satellite: PickQueue
+# :satellite: Pickqueue
 The new League client. Except it's on your phone.
 
-PickQueue is a different UI for the new League client that renders on your phone as a webpage instead of an application on your computer. It allows you to go through the game setup flow (from lobby until the end of champ select) from the safety of your toilet seat.
+Pickqueue is a different UI for the new League client that renders on your phone as a webpage instead of an application on your computer. It allows you to go through the game setup flow (from lobby until the end of champ select) from the safety of your toilet seat.
 
-This repository contains the source code for PickQueue. [Looking for the page with features and downloads instead?](https://mimic.lol)
+This repository contains the source code for Pickqueue. [Looking for the page with features and downloads instead?](https://mimic.lol)
 
-## Developing PickQueue
+## Developing Pickqueue
 
-PickQueue is composed of three different components: **web**, **conduit** and **rift**. Please read the appropriate READMEs in the subdirectories for information on how to develop for the platform.
+Pickqueue is composed of three different components: **web**, **conduit** and **rift**. Please read the appropriate READMEs in the subdirectories for information on how to develop for the platform.
 
 - [**Web**](/web) is the user interface presented to users. It uses Vue with Typescript and handles the actual controlling of the client.
 
@@ -18,4 +18,4 @@ PickQueue is composed of three different components: **web**, **conduit** and **
 
 ## License
 
-PickQueue and all of its components are released under the [MIT](https://github.com/molenzwiebel/PickQueue/blob/master/LICENSE) license. Feel free to browse through the code as you like, and if you end up making any improvements or changes, please do not hesitate to make a pull request. :)
+Pickqueue and all of its components are released under the [MIT](https://github.com/molenzwiebel/Mimic/blob/master/LICENSE) license. Feel free to browse through the code as you like, and if you end up making any improvements or changes, please do not hesitate to make a pull request. :)
