@@ -1,6 +1,4 @@
-
 ![PickQueue Logo](assets/PickQueue_logo.png?raw=true)
-
 # :satellite: PickQueue
 The new League client. Except it's on your phone.
 
