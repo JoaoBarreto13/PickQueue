@@ -1,21 +1,21 @@
 > [!CAUTION]
-> This open source version of Mimic is no longer maintained. Thanks for all the positive feedback over the years!
+> This open source version of PickQueue is no longer maintained. Thanks for all the positive feedback over the years!
 
-![Mimic Logo](assets/mimic-logo.png?raw=true)
+![PickQueue Logo](assets/mimic-logo.png?raw=true)
 
 [![Build Status](https://travis-ci.org/molenzwiebel/Mimic.svg?branch=master)](https://travis-ci.org/molenzwiebel/Mimic)
 [![Discord](https://discordapp.com/api/guilds/249481856687407104/widget.png?style=shield)](https://discord.gg/bfxdsRC)
 
-# :satellite: Mimic
+# :satellite: PickQueue
 The new League client. Except it's on your phone.
 
-Mimic is a different UI for the new League client that renders on your phone as a webpage instead of an application on your computer. It allows you to go through the game setup flow (from lobby until the end of champ select) from the safety of your toilet seat.
+PickQueue is a different UI for the new League client that renders on your phone as a webpage instead of an application on your computer. It allows you to go through the game setup flow (from lobby until the end of champ select) from the safety of your toilet seat.
 
-This repository contains the source code for Mimic. [Looking for the page with features and downloads instead?](https://mimic.lol)
+This repository contains the source code for PickQueue. [Looking for the page with features and downloads instead?](https://mimic.lol)
 
-## Developing Mimic
+## Developing PickQueue
 
-Mimic is composed of three different components: **web**, **conduit** and **rift**. Please read the appropriate READMEs in the subdirectories for information on how to develop for the platform.
+PickQueue is composed of three different components: **web**, **conduit** and **rift**. Please read the appropriate READMEs in the subdirectories for information on how to develop for the platform.
 
 - [**Web**](/web) is the user interface presented to users. It uses Vue with Typescript and handles the actual controlling of the client.
 
@@ -25,4 +25,4 @@ Mimic is composed of three different components: **web**, **conduit** and **rift
 
 ## License
 
-Mimic and all of its components are released under the [MIT](https://github.com/molenzwiebel/Mimic/blob/master/LICENSE) license. Feel free to browse through the code as you like, and if you end up making any improvements or changes, please do not hesitate to make a pull request. :)
+PickQueue and all of its components are released under the [MIT](https://github.com/molenzwiebel/PickQueue/blob/master/LICENSE) license. Feel free to browse through the code as you like, and if you end up making any improvements or changes, please do not hesitate to make a pull request. :)
