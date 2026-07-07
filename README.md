@@ -1,10 +1,5 @@
-> [!CAUTION]
-> This open source version of PickQueue is no longer maintained. Thanks for all the positive feedback over the years!
 
 ![PickQueue Logo](assets/mimic-logo.png?raw=true)
-
-[![Build Status](https://travis-ci.org/molenzwiebel/Mimic.svg?branch=master)](https://travis-ci.org/molenzwiebel/Mimic)
-[![Discord](https://discordapp.com/api/guilds/249481856687407104/widget.png?style=shield)](https://discord.gg/bfxdsRC)
 
 # :satellite: PickQueue
 The new League client. Except it's on your phone.
